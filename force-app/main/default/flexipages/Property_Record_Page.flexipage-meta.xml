@@ -171,8 +171,6 @@
         <itemInstances>
             <componentInstance>
                 <componentInstanceProperties>
-<<<<<<< HEAD
-=======
                     <name>latField</name>
                     <value>Location__Latitude__s</value>
                 </componentInstanceProperties>
@@ -190,7 +188,6 @@
         <itemInstances>
             <componentInstance>
                 <componentInstanceProperties>
->>>>>>> feature-chan-map
                     <name>tabs</name>
                     <value>sidebartabs</value>
                 </componentInstanceProperties>
